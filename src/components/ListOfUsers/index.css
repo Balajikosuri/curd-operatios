@@ -1,0 +1,12 @@
+.usersList {
+    display: flex;
+    flex: 0;
+
+}
+
+@media screen and (max-width:768px) {
+    .usersList {
+        display: flex;
+        overflow: auto;
+    }
+}

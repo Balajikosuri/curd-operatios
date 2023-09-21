@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Balaji Kosuri",
+      "email": "balajikosuri2@gmail.com",
+      "number": "+91100000000",
+      "id": 1
+    },
+    {
+      "name": "Gopi Kosuri",
+      "email": "gopikosuri3@gmail.com",
+      "number": "+91 6300202215",
+      "id": 2
+    }
+  ]
+}
